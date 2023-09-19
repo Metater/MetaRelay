@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaRelay.API", "MetaRelay.API\MetaRelay.API.csproj", "{9588B65A-6DFB-4583-9ADE-3C15BDCD3A70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9588B65A-6DFB-4583-9ADE-3C15BDCD3A70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9588B65A-6DFB-4583-9ADE-3C15BDCD3A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9588B65A-6DFB-4583-9ADE-3C15BDCD3A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9588B65A-6DFB-4583-9ADE-3C15BDCD3A70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {194F099C-3F9A-4F7B-BAFC-5231F39C0A85}
+	EndGlobalSection
+EndGlobal
