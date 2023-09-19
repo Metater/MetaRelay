@@ -5,6 +5,8 @@ VisualStudioVersion = 17.7.34031.279
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaRelay.API", "MetaRelay.API\MetaRelay.API.csproj", "{9588B65A-6DFB-4583-9ADE-3C15BDCD3A70}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MetaRelay.Local", "MetaRelay.Local\MetaRelay.Local.csproj", "{3228E1FE-C17A-47CC-A6B6-CE16D056B387}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{9588B65A-6DFB-4583-9ADE-3C15BDCD3A70}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9588B65A-6DFB-4583-9ADE-3C15BDCD3A70}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9588B65A-6DFB-4583-9ADE-3C15BDCD3A70}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3228E1FE-C17A-47CC-A6B6-CE16D056B387}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3228E1FE-C17A-47CC-A6B6-CE16D056B387}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3228E1FE-C17A-47CC-A6B6-CE16D056B387}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3228E1FE-C17A-47CC-A6B6-CE16D056B387}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
